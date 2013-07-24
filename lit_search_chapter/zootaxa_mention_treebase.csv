@@ -1,0 +1,37 @@
+Year of publication,Zootaxa paper identifier,String match to 'treebase' in Zootaxa paper
+2005,zt00998,half corresponding to region D1 were included in the analyses due to alignment difficulties. Alignments are available on TreeBASE study accession number S1293.
+2005,zt01014p072,in the characters column relate to the characters in Fig. 5 and in the matrix deposited in TreeBase
+2006,zt01158p067,www.treebase.org.
+2006,zt01255p055,matrix used in the Bayesian analysis for Figure 2 is deposited in TreeBASE (treebase.org).
+2007,zt01515p029,explanation of the data set. A few new characters have been added but these are simple features so the character list is self-explanatory. The character list and data matrix is provided on TreeBase (http:/TreeBase.org/
+2007,zt01515p029,resulting from the initial unweighted analysis (Fig. 1) are available on TreeBase (study accession number
+2008,zt01737p182,gene are available from TreeBASE.
+2008,zt01796p073,taxon was coded as being polymorphic in the original matrix (TreeBASE Matrix 15062). In a separate matrix
+2008,zt01796p073,however we kept each generation as a separate terminal taxon (TreeBASE Matrix 15063). This allowed us to
+2008,zt01796p073,1 Table 5 and the Separate Matrix) and the shortest trees are available in Nexus format from TreeBASE
+2008,zt01796p073,(Matrix 15062 and 15063 respectively; http://treebase.org/).
+2008,zt01893p064,parameters. Alignments have been deposited in TreeBASE (treebase.org accession number: S2168).
+2008,zt01956p080,Analysis. We downloaded the character matrix of Scharff and Coddington (1997) from TreeBASE
+2008,zt01956p080,(www.treebase.org). We edited the character coding for the Nephilidae in Mesquite 2.01 (Maddison & Maddison 2007) as discussed above and added the data for Telaprocera gen. nov. We then exported the data from
+2009,zt01996p080,used for this analysis is available from TreeBASE (http://www.treebase.org/treebase/index.html; study
+2009,zt02100p097,genes are available at TreeBase and GenBank respectively (see Guayasamin et al. 2008a).
+2009,zt02211p035,nuclear protein-coding genes. Both alignments have been deposited in TreeBASE with accession number
+2009,zt02228p056,available at TreeBase http://www.treebase.org accession number SN2462. The datasets were tested for
+2010,zt02592p133,designations is deposited at TreeBASE (last accessed 20 May 2010: http://www.treebase.org).
+2010,zt02640p052,2007). Alignments are available at TreeBase with study accession URL: http://purl.org/phylo/treebase/
+2011,zt02838p084,algorithm) (Katoh et al. 2002) deposited in TreeBASE (http://purl.org/phylo/treebase/phylows/study/TB2:S11144). A Bayesian phylogenetic tree was calculated with MrBayes (Huelsenbeck & Ronquist 2001) with 8 independent chains and 107 generations (samplefrequency=1000) using the HKY+I+G and GTR+I+G model as suggested by the analysis using jModeltest
+2011,zt02971p058,submitted to GenBank (Tab. 2) and aligned data sets are available from TreeBase (11498 - http://purl.org/phylo/
+2011,zt02971p058,treebase/phylows/study/TB2:S11498). Kimura’s two-parameter model of base substitution was used to calculate
+2011,zt02982p026,involved. Under the two-step system of species delimitation employed in the present study (character- and treebased delimitation) only one species instead of 11 species would be recognized. What is presently understood as A.
+2012,zt03201p026,reproduce the analysis are available for download from http://aracnologia.macn.gov.ar/biblio/suppl/ and the dataset is deposited in TreeBase with accession number S12033 (http://purl.org/phylo/treebase/phylows/study/
+2012,zt03238p048,The dataset may be downloaded from the TreeBASE database (ID: 12443). The data relative to Froeschner’s taxonomical decisions as well as the official register of names and nomenclatural acts for Elsiella plana type-specimen museum and geographical coordinates are all available in ZooBank.
+2012,zt03238p048,TreeBASE (1994–2011). Available from: http://www.treebase.org/treebase-web/home.html (Accessed in October 2011).
+2012,zt03265p021,use here the expanded matrix of Frick et al. (2010) (available at: http://treebase.org/treebase-web/search/study/
+2012,zt03312p044,Analyses were performed with TNT 1.1 (Goloboff et al. 2008a). The complete dataset is available for download from http://aracnologia.macn.gov.ar/biblio/suppl/ and the dataset is deposited in TreeBase with accession
+2012,zt03383p013,analysis of the supermatrix (4110 bp; TreeBase study-nr. 12795) was performed using the Maximum Likelihood
+2012,zt03383p013,the tree have been deposited in TreeBASE under Study-Nr. 12795.
+2012,zt03443p065,biblio/suppl/ and the dataset is deposited in TreeBase with accession number 12571. The data matrix was analyzed
+2013,zt03647p250, consensus tree resulting from its analysis in MrBayes have been deposited with TreeBase (http://purl.org/phylo/
+2013,zt03647p250, treebase/phylows/study/TB2:S13082).
+2013,zt03647p250, 1.00) and empty (0.95 < BS < 0.99) triangles. This tree is available from TreeBase (http://purl.org/phylo/treebase/phylows/
+2013,zt03653p162, phylogenetic results and consensus tree in Treebase (Treebase.org; http://purl.org/phylo/treebase/phylows/study/
