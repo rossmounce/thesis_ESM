@@ -20,7 +20,7 @@
 #additional instructions appended to tmp.tnt
 sed 's@procedure \/;@log temp1.log; minmax\*; sect:slack 40; xmult=level10; log\/; log output_reps.log; mher start; proc reps.txt; quit;@' $1 > tmp.tnt
 
-#this will do everything then quit. output hardcoded to output.log
+#this will do everything then quit. output hardcoded to output_reps.log
 tnt proc tmp.tnt; 
 
 printf "MEANNS calculations in TNT are complete \n"
