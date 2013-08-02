@@ -22,6 +22,8 @@ sed 's@procedure \/;@log temp1.log; minmax\*; sect:slack 40; xmult=level10; log\
 
 #ensure that all inapplicables have been converted to ? marks
 sed -i 's/-/?/g' tmp.tnt;
+#put back hyphens in ccode block if they were taken out by the above command
+sed -i 's/?\[\//-\[\//g' tmp.tnt;
 
 #this will do everything then quit. output hardcoded to output_reps.log
 tnt proc tmp.tnt; 
