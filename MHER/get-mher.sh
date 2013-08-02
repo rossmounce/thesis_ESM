@@ -43,6 +43,7 @@ printf "MINL = `cat minl.tmp` \n"
 printf "L = `cat l.tmp` \n"
 printf "Modified-MEANNS = `cat mns.tmp` \n"
 paste mns.tmp minl.tmp l.tmp | awk '{o = ($1-$3)/($1-$2)} END { print "Modified-HER = " o }'
+#enable | tee -a results.log if you want to run this script over multiple files
 
 #clean up temporary files but leave behind permuted matrix log file
 rm temp1.log;
