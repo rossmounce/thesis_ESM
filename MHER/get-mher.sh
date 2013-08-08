@@ -18,7 +18,7 @@
 #DATA FILE TO BE TESTED MUST END with 'procedure /;'
 #this makes a copy of the data file with 
 #additional instructions appended to tmp.tnt
-sed 's@procedure \/;@log temp1.log; minmax\*; sect:slack 40; xmult=level10; log\/; log output_reps.log; mher start; proc reps.txt; quit;@' $1 > tmp.tnt
+sed 's@procedure \/;@log temp1.log; minmax*; sect:slack 40; xmult=level10; log\/; log output_reps.log; mher start; proc reps.txt; quit;@' $1 > tmp.tnt
 
 #ensure that all inapplicables have been converted to ? marks
 sed -i 's/-/?/g' tmp.tnt;
