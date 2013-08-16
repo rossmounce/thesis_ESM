@@ -1684,8 +1684,8 @@ for (i in seq_along(tr2)) {
 meantablerf <- rbind(meantablerf,mean(min[,2])) #zmean RF closest trees between pruned and deleted sets
 meantablepd <- rbind(meantablepd,mean(min[,3])) #zmean PD closest trees between pruned and deleted sets
 
-blah <- read.tree("nopruneref.tre")
-blah$tip[-1]
+#blah <- read.tree("nopruneref.tre")
+#blah$tip[-1] ## THIS IS BAD MAY BE IN A DIFFERENT ORDER TO THAT OF RESULTS, SO NOT SAFE TO USE
 
-write.csv(cbind(c(blah$tip.label[-1],NA),meantablerf,meantablepd),file="resultsR.csv")
+write.csv(cbind(meantablerf,meantablepd),file="resultsR.csv")
 
